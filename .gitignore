@@ -1,0 +1,14 @@
+# Data, training outputs, logs and model weights
+data/
+outputs/
+checkpoints/
+logs/
+*.pth
+
+# Python / build
+__pycache__/
+*.pyc
+*.egg-info/
+build/
+dist/
+*.so
